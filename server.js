@@ -10,3 +10,4 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+console.log("🚀 ~ file: server.js ~ line 13 ~ port", port)
