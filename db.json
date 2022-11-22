@@ -45,14 +45,16 @@
       "gameId": 545033,
       "username": "Anakin",
       "userId": 1,
-      "id": 6
+      "id": 6,
+      "createdAt": "Mon, 21 Nov 2022 04:25:00 GMT"
     },
     {
       "comment": "Prueba amigo3",
       "gameId": 545033,
       "username": "Anakin",
       "userId": 1,
-      "id": 7
+      "id": 7,
+      "createdAt": "Mon, 21 Nov 2022 04:44:00 GMT"
     }
   ],
   "users": [
